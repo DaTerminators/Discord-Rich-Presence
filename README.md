@@ -1,8 +1,8 @@
 [![Discord](https://img.shields.io/discord/449576301997588490.svg?label=Discord&logo=discord)]()
-[![David](https://img.shields.io/david/Looney-Dev/Discord-Rich-Presence.svg?logo=javascript&logoColor=white)](https://david-dm.org/Looney-Dev/Discord-Rich-Presence)
-[![GitHub Issues](https://img.shields.io/github/issues/Looney-Dev/Discord-Rich-Presence.svg?logo=github&logoColor=white)](https://github.com/Looney-Dev/Discord-Rich-Presence/issues)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Looney-Dev/Discord-Rich-Presence.svg?logo=github&logoColor=white)](https://github.com/Looney-Dev/Discord-Rich-Presence/commit/master)
-[![License](https://img.shields.io/github/license/Looney-Dev/Discord-Rich-Presence.svg?label=License&logo=github&logoColor=white)](./LICENSE)
+[![David](https://img.shields.io/david/DaTerminators/Discord-Rich-Presence.svg?logo=javascript&logoColor=white)](https://david-dm.org/DaTerminators/Discord-Rich-Presence)
+[![GitHub Issues](https://img.shields.io/github/issues/DaTerminators/Discord-Rich-Presence.svg?logo=github&logoColor=white)](https://github.com/Looney-Dev/Discord-Rich-Presence/issues)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/DaTerminators/Discord-Rich-Presence.svg?logo=github&logoColor=white)](https://github.com/DaTerminators/Discord-Rich-Presence/commit/master)
+[![License](https://img.shields.io/github/license/DaTerminators/Discord-Rich-Presence.svg?label=License&logo=github&logoColor=white)](./LICENSE)
 
 # Discord-Rich-Presence
 
@@ -58,3 +58,6 @@ Each array is it's own day, first is Monday, last is Sunday etc etc. My schedule
 I go to bed at 22pm if there's work tomorrow, and wake up 7am. If it's not work tomorrow, I go to bed at 23pm and wake up the next day 10am.
 
 If you wa suppprt the development, please feel free to open a pull request.
+
+## Maintainers 
+@Looney-Dev - Owner of this repository
